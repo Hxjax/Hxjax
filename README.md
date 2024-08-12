@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
   <head>
-    <title>Título da página</title>
+    <title>Whatsapp 2 </title>
     <meta charset="utf-8">
   </head>
   <body>
